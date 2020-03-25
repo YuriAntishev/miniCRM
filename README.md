@@ -3,7 +3,7 @@ Application for keeping contacts (ReactJS &amp; Ant Design &amp; Redux)
 
 I made a simple CRUD app that can add, update, or delete contacts.
 
-### [View the demo](https://antishev-minicrm-app.herokuapp.com)
+## [Demo Version](https://antishev-minicrm-app.herokuapp.com)
 
 ## Technologies in use
 
