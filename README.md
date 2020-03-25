@@ -1,7 +1,7 @@
 # miniCRM
 Application for keeping contacts (ReactJS &amp; Ant Design &amp; Redux)
 
-In this tutorial, we'll make a simple CRUD app that can add, update, or delete users.
+I made a simple CRUD app that can add, update, or delete contacts.
 
 ### [View the demo](https://antishev-minicrm-app.herokuapp.com)
 
