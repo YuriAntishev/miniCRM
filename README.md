@@ -8,6 +8,7 @@ I made a simple CRUD app that can add, update, or delete contacts.
 ## Technologies in use
 
 Frontend: ReactJS, Ant Design, Redux
+
 Backend: MongoDB(cloud version), ExpressJS
 
 ## Author
